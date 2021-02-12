@@ -8,7 +8,729 @@
     src: url("./assets/lilgrotesk_bold.woff") format("woff"), /* Super Modern Browsers */
   }
 
+@font-face {
+    font-family: "manrope extralight";
+    src: url("./assets/Manrope-ExtraLight.woff") format("woff"), /* Super Modern Browsers */
+  }
+
+@font-face {
+    font-family: "manrope light";
+    src: url("./assets/Manrope-Light.woff") format("woff"), /* Super Modern Browsers */
+  }
+
+@font-face {
+    font-family: "manrope medium";
+    src: url("./assets/Manrope-Medium.woff") format("woff"), /* Super Modern Browsers */
+  }
+
+@font-face {
+    font-family: "manrope regular";
+    src: url("./assets/Manrope-Regular.woff") format("woff"), /* Super Modern Browsers */
+  }
+
+@font-face {
+    font-family: "manrope semibold";
+    src: url("./assets/Manrope-SemiBold.woff") format("woff"), /* Super Modern Browsers */
+  }
+
+@font-face {
+    font-family: "manrope semibold";
+    src: url("./assets/Manrope-SemiBold.woff") format("woff"), /* Super Modern Browsers */
+  }
+
+@font-face {
+    font-family: "manrope bold";
+    src: url("./assets/Manrope-Bold.woff") format("woff"), /* Super Modern Browsers */
+  }
+
+@font-face {
+    font-family: "manrope extrabold";
+    src: url("./assets/Manrope-ExtraBold.woff") format("woff"), /* Super Modern Browsers */
+  }
+
+@font-face {
+    font-family: "jetbrainsmono extralight";
+    src: url("./assets/JetBrainsMono-ExtraLight.woff2") format("woff2"), /* Super Modern Browsers */
+  }
+
+@font-face {
+    font-family: "jetbrainsmono light";
+    src: url("./assets/JetBrainsMono-Light.woff2") format("woff2"), /* Super Modern Browsers */
+  }
+
+@font-face {
+    font-family: "jetbrainsmono thin";
+    src: url("./assets/JetBrainsMono-Thin.woff2") format("woff2"), /* Super Modern Browsers */
+  }
+
+@font-face {
+    font-family: "jetbrainsmono medium";
+    src: url("./assets/JetBrainsMono-Medium.woff2") format("woff2"), /* Super Modern Browsers */
+  }  
+
+@font-face {
+    font-family: "jetbrainsmono regular";
+    src: url("./assets/JetBrainsMono-Regular.woff2") format("woff2"), /* Super Modern Browsers */
+  }
+
+@font-face {
+    font-family: "jetbrainsmono bold";
+    src: url("./assets/JetBrainsMono-Bold.woff2") format("woff2"), /* Super Modern Browsers */
+  }
+
+@font-face {
+    font-family: "jetbrainsmono extrabold";
+    src: url("./assets/JetBrainsMono-ExtraBold.woff2") format("woff2"), /* Super Modern Browsers */
+  }
+
 body {
     background-color: rgb(255, 169, 216);
     margin: 3em;
+}
+
+h1 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 178px;
+    color: rgb(146, 0, 122);
+}
+
+.begin {
+    transform: rotate(45deg);
+    margin-top: 50px;
+    margin-left: 1200px;
+    margin-bottom: -390px;
+}
+
+h2 a{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(146, 0, 122);
+    margin-left: 13px;
+}
+
+h2 a:hover {
+    color: rgb(255, 71, 172);
+}
+
+.line1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 248, 149);
+    margin-top: 100px;
+    margin-left: 113px;
+}
+
+.lineup {
+    font-weight: bold;
+}
+
+.lineup:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(0, 9, 94);
+}
+
+.line2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 248, 149);
+    margin-left: 113px;
+}
+
+.clean {
+    font-weight: bold;
+}
+
+.clean:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: white;
+}
+
+.line3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 248, 149);
+    margin-left: 113px;
+}
+
+.shine {
+    font-weight: bold;
+}
+
+.shine:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(235, 255, 210);
+}
+
+.line4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 248, 149);
+    margin-left: 113px;
+}
+
+.sweep {
+    font-weight: bold;
+}
+
+.sweep:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(139, 139, 139);
+}
+
+.line5 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 248, 149);
+    margin-left: 113px;
+}
+
+.book {
+    font-weight: bold;
+}
+
+.book:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(102, 37, 0);
+}
+
+.line6 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 248, 149);
+    margin-left: 113px;
+}
+
+.two {
+    font-weight: bold;
+}
+
+.two:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(126, 178, 255);
+}
+
+.three {
+    font-weight: bold;
+}
+
+.three:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(86, 153, 255);
+}
+
+.line7 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 248, 149);
+    margin-left: 113px;
+}
+
+.paintings {
+    font-weight: bold;
+}
+
+.paintings:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(76, 0, 255);
+}
+
+.line8 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 248, 149);
+    margin-left: 113px;
+}
+
+.guitar {
+    font-weight: bold;
+}
+
+.guitar:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(207, 130, 58);
+}
+
+.knit {
+    font-weight: bold;
+}
+
+.knit:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(255, 223, 193);
+}
+
+.line9 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 248, 149);
+    margin-left: 113px;
+}
+
+.cook {
+    font-weight: bold;
+}
+
+.cook:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(19, 119, 52);
+}
+
+.line10 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 248, 149);
+    margin-left: 113px;
+}
+
+.wonder {
+    font-weight: bold;
+}
+
+.wonder:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(157, 240, 255);
+}
+
+.line11 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 94, 0);
+    margin-left: 200px;
+}
+
+.baking {
+    font-weight: bold;
+}
+
+.baking:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(255, 153, 0);
+}
+
+.line12 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 94, 0);
+    margin-left: 200px;
+}
+
+.chess {
+    font-weight: bold;
+}
+
+.chess:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: black;
+}
+
+.line13 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 94, 0);
+    margin-left: 200px;
+}
+
+.pottery {
+    font-weight: bold;
+}
+
+.pottery:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(206, 231, 255);
+}
+
+.line14 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 94, 0);
+    margin-left: 200px;
+}
+
+.sketch {
+    font-weight: bold;
+}
+
+.sketch:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(77, 77, 77);
+}
+
+.line15 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 94, 0);
+    margin-left: 200px;
+}
+
+.dress {
+    font-weight: bold;
+}
+
+.dress:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(241, 69, 69);
+}
+
+.line16 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 94, 0);
+    margin-left: 200px;
+}
+
+.books {
+    font-weight: bold;
+}
+
+.books:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(54, 20, 0);
+}
+
+.line17 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 94, 0);
+    margin-left: 200px;
+}
+
+.time {
+    font-weight: bold;
+}
+
+.time:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(76, 173, 144);
+}
+
+.line18 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 94, 0);
+    margin-left: 200px;
+}
+
+.paint {
+    font-weight: bold;
+}
+
+.paint:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(58, 1, 190);
+}
+
+.line19 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 94, 0);
+    margin-left: 200px;
+}
+
+.room {
+    font-weight: bold;
+}
+
+.room:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(255, 203, 248);
+}
+
+.line20 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 94, 0);
+    margin-left: 200px;
+}
+
+.brush {
+    font-weight: bold;
+}
+
+.brush:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(188, 255, 205);
+}
+
+.brush2 {
+    font-weight: bold;
+}
+
+.brush2:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(160, 235, 179);
+}
+
+.line21 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 94, 0);
+    margin-left: 200px;
+}
+
+.brush3 {
+    font-weight: bold;
+}
+
+.brush3:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(136, 221, 157);
+}
+
+.brush4 {
+    font-weight: bold;
+}
+
+.brush4:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(113, 206, 136);
+}
+
+.line22 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 94, 0);
+    margin-left: 200px;
+}
+
+.stuck {
+    font-weight: bold;
+}
+
+.stuck:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(230, 230, 230);
+}
+
+.line23 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 94, 0);
+    margin-left: 200px;
+}
+
+.wanderin {
+    font-weight: bold;
+}
+
+.wanderin:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(206, 210, 255);
+}
+
+.wanderin2 {
+    font-weight: bold;
+}
+
+.wanderin2:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(176, 181, 238);
+}
+
+.line24 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 94, 0);
+    margin-left: 200px;
+}
+
+.wanderin3 {
+    font-weight: bold;
+}
+
+.wanderin3:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(149, 155, 221);
+}
+
+.wanderin4 {
+    font-weight: bold;
+}
+
+.wanderin4:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(124, 131, 211);
+}
+
+.line25 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 94, 0);
+    margin-left: 200px;
+}
+
+.begin2 {
+    font-weight: bold;
+}
+
+.begin2:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(188, 235, 150);
+}
+
+.line26 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(12, 0, 53);
+    margin-left: 300px;
+}
+
+.night {
+    font-weight: bold;
+}
+
+.night:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(23, 0, 97);
+}
+
+.line27 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(12, 0, 53);
+    margin-left: 300px;
+}
+
+.lights {
+    font-weight: bold;
+}
+
+.lights:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(255, 240, 107);
+}
+
+.line28 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(12, 0, 53);
+    margin-left: 300px;
+}
+
+.birthday {
+    font-weight: bold;
+}
+
+.birthday:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(255, 51, 24);
+}
+
+.line29 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(12, 0, 53);
+    margin-left: 300px;
+}
+
+.what {
+    font-weight: bold;
+}
+
+.what:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(255, 104, 175);
+}
+
+.line30 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(12, 0, 53);
+    margin-left: 300px;
+}
+
+.glow {
+    font-weight: bold;
+}
+
+.glow:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(185, 255, 104);
+}
+
+.line31 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(12, 0, 53);
+    margin-left: 300px;
+}
+
+.older {
+    font-weight: bold;
+}
+
+.older:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(0, 75, 126);
+}
+
+.line32 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(12, 0, 53);
+    margin-left: 300px;
+}
+
+.mother {
+    font-weight: bold;
+}
+
+.mother:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(112, 0, 79);
+}
+
+.line33 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(12, 0, 53);
+    margin-left: 300px;
+    margin-bottom: 3em;
+}
+
+.go {
+    font-weight: bold;
+}
+
+.go:hover {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    color: rgb(255, 0, 179);
 }
