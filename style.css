@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "lilgrotesk regular";
+    src: url("./assets/lilgrotesk_regular.woff") format("woff"), /* Super Modern Browsers */
+  }
+
+@font-face {
+    font-family: "lilgrotesk bold";
+    src: url("./assets/lilgrotesk_bold.woff") format("woff"), /* Super Modern Browsers */
+  }
+
+body {
+    background-color: rgb(255, 169, 216);
+    margin: 3em;
+}
